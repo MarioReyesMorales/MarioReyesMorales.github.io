@@ -60,7 +60,7 @@ body {
 .sub_page .hero_area {
   height: auto;
   background: none;
-  background-color: #1a2e35;
+  background-color: #ff0000;
 }
 
 .hero_area.sub_pages {
@@ -355,7 +355,7 @@ a:focus {
 .experience_section .detail-box .btn-box .btn-1 {
   display: inline-block;
   padding: 10px 0;
-  background-color: #ff4f5a;
+  background-color: #ff0011;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -372,7 +372,7 @@ a:focus {
 .experience_section .detail-box .btn-box .btn-2 {
   display: inline-block;
   padding: 10px 0;
-  background-color: #1a2e35;
+  background-color: #ff0000;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -382,8 +382,8 @@ a:focus {
 
 .experience_section .detail-box .btn-box .btn-2:hover {
   background-color: transparent;
-  border-color: #1a2e35;
-  color: #1a2e35;
+  border-color: #00f7ff;
+  color: #5eff00;
 }
 
 .experience_section .img-box img {
@@ -515,7 +515,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: #1a2e35;
+  background-color: #ff009d;
   border-radius: 100%;
   margin-right: 35px;
 }
@@ -580,7 +580,7 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 10px;
   background-position: center;
-  background-color: #1a2e35;
+  background-color: #ff00ea;
   margin: 2px;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -597,7 +597,7 @@ a:focus {
 /* info section */
 .info_section {
   position: relative;
-  background-color: #1a2e35;
+  background-color: #2600ff;
   color: #ffffff;
 }
 
