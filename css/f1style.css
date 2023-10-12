@@ -382,7 +382,7 @@ a:focus {
 
 .experience_section .detail-box .btn-box .btn-2:hover {
   background-color: transparent;
-  border-color: #00f7ff;
+  border-color: #00ff0d;
   color: #5eff00;
 }
 
@@ -391,7 +391,7 @@ a:focus {
 }
 
 .category_section {
-  background-color: #1cbbb4;
+  background-color: #00ff37;
   color: #ffffff;
   text-align: center;
 }
@@ -538,7 +538,7 @@ a:focus {
 }
 
 .freelance_section .tab_container .t-link-box[aria-expanded="true"] .img-box, .freelance_section .tab_container .t-link-box:hover .img-box {
-  background-color: #1cbbb4;
+  background-color: #33ff00;
 }
 
 .freelance_section .img-box img {
